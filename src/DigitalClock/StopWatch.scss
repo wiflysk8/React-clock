@@ -1,0 +1,18 @@
+.stopwatch {
+  margin: 20px;
+  flex-wrap: wrap;
+  background-color: rgba(0, 0, 0, 0.466);
+  border-radius: 8px;
+  padding-bottom: 18px;
+  button {
+    cursor: pointer;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    margin: 4px;
+    font-size: 10px;
+    font-weight: bold;
+    text-align: center;
+    border: 2px solid lime;
+  }
+}

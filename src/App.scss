@@ -6,7 +6,15 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0px;
+  color: lime;
+  font-size: 32px;
+  background-image: url("https://wallpaperaccess.com/full/2217435.jpg");
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
